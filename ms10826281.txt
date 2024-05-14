@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "purple-fog-0456.on.fleek.co",
+  "Id": "3e590a43-eef0-457a-9498-cbbeb58328ee"
+}
